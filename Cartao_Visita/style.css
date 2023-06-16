@@ -18,13 +18,18 @@ a{
 }
 @font-face {
   font-family: logo;
-  src: Url("../Fonte/Angelia Davitson.otf");
+  src: Url("../Fonte/AlexBrush-Regular.ttf");
 }#nomeNegocio1{
   font-family: logo;
-  font-size: 24px;
+  font-size: 40px;
+}
+@font-face {
+  font-family: logo1;
+  src: Url("../Fonte/Bogart-Regular-trial.ttf");
 }
 #nomeNegocio2{
-  font-size: 20px;
+  font-size: 34px;
+  font-family: logo1;
 }
 .subNomeNegocio{
   font-size: 18px;
