@@ -5,8 +5,8 @@
   font-family: Arial;
 }
 body{
-  /* background: #D9BAA9; */
-  background: #CEC7C2; /* 3 tom antes do branco principal */
+  /* background: #CEC7C2; */ /* 3 tom antes do branco principal */
+  background: #D8B9A7;
   /* background: url(../Img/Background/BackgroundFundo.jpg)  repeat-x fixed; */
   background-repeat: no-repeat;
   background-size: cover;
